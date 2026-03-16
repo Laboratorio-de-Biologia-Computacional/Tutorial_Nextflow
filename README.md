@@ -1,4 +1,4 @@
-# Tutorial Nextflow
+# tutorial-nextflow
 
 Tutorial introductorio a Nextflow para pipelines bioinformáticos.
 
